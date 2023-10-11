@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "dateTime": "Oct 06, 2023 9:05:04 AM",
+      "body": "Hello Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate iste dolorem exercitationem qui excepturi. Magni illo eveniet non blanditiis rerum repellendus asperiores tempora quia nesciunt! Quod aliquam quo corporis beatae"
+    },
+    {
+      "id": 4,
+      "title": "6th post",
+      "dateTime": "Oct 06, 2023 9:56:59 AM",
+      "body": "my 6th post in this blog"
+    },
+    {
+      "id": 5,
+      "title": "My Last Post",
+      "dateTime": "Oct 10, 2023 8:07:53 AM",
+      "body": "this is my last post today"
+    }
+  ]
+}
